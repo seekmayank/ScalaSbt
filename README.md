@@ -26,7 +26,7 @@ LM-SJC-11001988:ScalaSbt mayangupta$ sbt compile package
 ```
 
 ## Run the project
-`sbt run`
+`sbt run` \n
 `sbt "runMain com.scala.example.ExampleHello"`
 
 ```scala
@@ -42,3 +42,5 @@ Hello Scala
 [success] Total time: 1 s, completed Oct 27, 2018 2:34:15 PM
 ```
 
+## Author
+Mayank Gupta
