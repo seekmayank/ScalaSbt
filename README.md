@@ -1,7 +1,8 @@
 # ScalaSbt
 
-##Compile & Package the project##
+## Compile & Package the project
 `sbt compile package`
+
 ```scala
 LM-SJC-11001988:ScalaSbt mayangupta$ sbt compile package
 [info] Updated file /Users/mayangupta/Desktop/1.Project/eclipse_oxy/hadoop/ScalaSbt/project/build.properties: set sbt.version to 1.1.6
