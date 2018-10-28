@@ -85,6 +85,3 @@ Hello Scala
 2018-10-27 17:04:39 INFO  ShutdownHookManager:54 - Shutdown hook called
 2018-10-27 17:04:39 INFO  ShutdownHookManager:54 - Deleting directory /private/var/folders/q2/b5s7h1y90kg5cjkdm8xrnnkr394zc2/T/spark-25d59fe4-a7f7-41e0-b094-257559872184
 ```
-
-## Author
-Mayank Gupta
